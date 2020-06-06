@@ -1,0 +1,4 @@
+MACRO 16777217 "GM Flight" "Ability_Druid_FlightForm"
+.gm fly on
+.modify speed fly 10
+END

@@ -1,0 +1,6 @@
+MACRO 1 "Full Heal" "SPELL_NATURE_SPIRITARMOR"
+/g .revive
+END
+MACRO 2 "Kill" "Ability_Druid_FerociousBite"
+.damage 10000000
+END
