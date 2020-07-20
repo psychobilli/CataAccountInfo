@@ -1,6 +1,18 @@
 MACRO 1 "Full Heal" "SPELL_NATURE_SPIRITARMOR"
 /g .revive
 END
+MACRO 6 "Gm Fly" "Spell_Nature_GiftoftheWaterSpirit"
+.gm fly on
+END
+MACRO 3 "High Speed" "Ability_Druid_Dash"
+.modify speed 5
+END
 MACRO 2 "Kill" "Ability_Druid_FerociousBite"
 .damage 10000000
+END
+MACRO 4 "Normal Speed" "Ability_Hunter_OneWithNature"
+.modify speed 1
+END
+MACRO 5 "Npc Info" "Ability_Warrior_Revenge"
+.npc info
 END
