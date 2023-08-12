@@ -3,16 +3,16 @@ qcSettings = {
 	["QC_M_SHOW_ICONS"] = 1,
 	["QC_L_HIDE_LOWLEVEL"] = 0,
 	["PURGED"] = 99.7,
+	["QC_M_HIDE_INPROGRESS"] = 0,
 	["QC_M_HIDE_COMPLETED"] = 0,
-	["QC_M_HIDE_PROFESSION"] = 1,
-	["QC_M_HIDE_LOWLEVEL"] = 0,
 	["QC_M_HIDE_SEASONAL"] = 1,
+	["QC_L_HIDE_PROFESSION"] = 1,
 	["SORT"] = 1,
 	["QC_ML_HIDE_FACTION"] = 1,
+	["QC_M_HIDE_LOWLEVEL"] = 0,
 	["QC_L_HIDE_COMPLETED"] = 0,
-	["QC_L_HIDE_PROFESSION"] = 1,
 	["QC_ML_HIDE_RACECLASS"] = 1,
-	["QC_M_HIDE_INPROGRESS"] = 0,
+	["QC_M_HIDE_PROFESSION"] = 1,
 }
 qcWorkingDB = {
 }
@@ -143,19 +143,6 @@ qcCollectedQuests = {
 			[911] = 62,
 		}, -- [12]
 	},
-	[28653] = {
-		28653, -- [1]
-		"Shadow Priest Sarvis", -- [2]
-		2, -- [3]
-		"Deathknell", -- [4]
-		84, -- [5]
-		1, -- [6]
-		2, -- [7]
-		16, -- [8]
-		1, -- [9]
-		0, -- [10]
-		0, -- [11]
-	},
 	[26799] = {
 		26799, -- [1]
 		"Those That Couldn't Be Saved", -- [2]
@@ -171,6 +158,19 @@ qcCollectedQuests = {
 		{
 			[68] = 350,
 		}, -- [12]
+	},
+	[28653] = {
+		28653, -- [1]
+		"Shadow Priest Sarvis", -- [2]
+		2, -- [3]
+		"Deathknell", -- [4]
+		84, -- [5]
+		1, -- [6]
+		2, -- [7]
+		16, -- [8]
+		1, -- [9]
+		0, -- [10]
+		0, -- [11]
 	},
 }
 qcProgressComplete = {

@@ -16,3 +16,6 @@ END
 MACRO 5 "Npc Info" "Ability_Warrior_Revenge"
 .npc info
 END
+MACRO 7 "scriptOtheDay" "INV_MISC_NOTE_05"
+.add 46856
+END
