@@ -1,4 +1,5 @@
-SET flaggedTutorials "v##$##%##E##-##'##(##.##Z##8##[##K##)##;##1##+##:##]##^##7##,##<##?##@##9##I##F##D##N##0##3##J##A##B"
+SET showTargetOfTarget "1"
+SET flaggedTutorials "v##$##%##E##-##'##(##.##Z##8##[##K##)##;##1##+##:##]##^##7##,##<##?##@##9##I##F##D##N##0##3##J##A##B##O##`##G##=##6##5"
 SET lockActionBars "0"
 SET cameraDistanceMaxFactor "1"
 SET showTutorials "0"

@@ -1,2 +1,7 @@
-SET flaggedTutorials "v##$##:##N##(##<"
+SET showTargetOfTarget "1"
+SET flaggedTutorials "v##$##:##N##(##<##?##%##E##-##.##Z##8##[##)##;##1##+##K##,##7##F##O##9##I##D##^##]##`##0##3##A##B"
+SET lockActionBars "0"
 SET cameraDistanceMaxFactor "1"
+SET showNewbieTips "0"
+SET showTutorials "0"
+SET talentFrameShown "1"

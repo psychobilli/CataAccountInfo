@@ -1,0 +1,9 @@
+MACRO 16777217 "add" "INV_THROWINGKNIFE_02"
+.add 58234
+.add 48
+.add 47
+.add 25
+.add 50055
+.add 28979
+.add 6948
+END

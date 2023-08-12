@@ -1,0 +1,7 @@
+MACRO 16777217 "add" "INV_SWORD_04"
+.add 52553
+.add 1395
+.add 52554
+.add 35
+.add 6948
+END

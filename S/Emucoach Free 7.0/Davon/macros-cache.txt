@@ -1,0 +1,10 @@
+MACRO 16777217 "add" "INV_WEAPON_BOW_02"
+.add 52532
+.add 49567
+.add 49568
+.add 49569
+.add 2508
+.add 49570
+.add 6948
+.add 49571
+END
